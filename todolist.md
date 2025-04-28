@@ -1,11 +1,14 @@
 # pb-p-site
 ### Professional Brand Portfolio website and to-do list
  
-### Updated To-Do List v1 - Skeleton with Site Architecture
-
 # Professional Brand Portfolio Website
 
 ## Site Information Architecture - Block Layout Outline
+
+### Screenshot of Site Mock (Hi-Fi)
+![Alt text](relative/path/to/image.png)
+
+### Updated To-Do List v1 - Skeleton with Site Architecture
 
 ### Overview
 | Page Name      | Description                                                                 |
