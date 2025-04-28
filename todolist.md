@@ -17,10 +17,11 @@
 | 4 🔲 feature pop-up modal with download pdf 
 | 5 🔲 fix lexical customization with syntax highlighter |
 
+| 1 match rows
 | 2 🔲 update remaining singletons - logo 
 | 3 🔲 customize collections per page  
 | 4 🔲 update landing animation with GSAP or threejs 
-| 5 🔲  test smoothness of speed load time and scrolling for parallax effect|
+| 5 🔲  test smoothness of speed load time and scrolling for parallax effect |
 
 | 🔲 1 spin up new one with env file vars from mongo 
 doublecheck DNS redirect with host  
