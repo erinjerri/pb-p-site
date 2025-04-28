@@ -3,8 +3,10 @@
  
 ### Updated To-Do List v1 - Skeleton
 
-| PayloadCMS Admin Panel | Base Components | CCustomized Features | Testing |
+| PayloadCMS Admin Panel | Base Components | Customized Features | Testing |
 | :------------ | :------------------------- | :---------------------------- | :------------------ |
+
+| - ✅ Evaluated VisionOS CoreML feature | - 🔲 Create rest of CalendarKit for logging task times with prettier UI | | - ✅ Research Benchmark (OSWorld, DeepEval integration with LlamaIndex for Computer Use) |
 
 | ✅ Create initial repo |
 initial blog main page |
