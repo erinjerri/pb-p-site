@@ -6,7 +6,7 @@
 ## Site Information Architecture - Block Layout Outline
 
 ### Screenshot of Site Mock (Hi-Fi)
-![Alt text](relative/path/to/image.png)
+![Alt text](https://github.com/erinjerri/pb-p-site/blob/main/April-2025-prof-brand-site-hifi-wireframe-figma-rz.png)
 
 ### Updated To-Do List v1 - Skeleton with Site Architecture
 
