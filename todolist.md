@@ -8,18 +8,18 @@
 | 1 ✅ Create initial repo and configure environment variables with mongodb etc.
 | 2 ✅ create initial CMS admin panel and page with blog main page and blog post detail 
 | 3 🔲 create main hero block                        
-| 4 feature pop-up modal with download pdf 
-| 5 responsive test of first push       |
+| 4 🔲 feature pop-up modal with download pdf 
+| 5 🔲 responsive test of first push |
 
 | 🔲 1 fix lexical customization with syntax highlighter | 
 2 🔲 update remaining singletons - logo | 
 3 🔲 customize collections per page  | 
-4 🔲 update | 
-5 update landing animation with GSAP or threejs|
+4 🔲 update landing animation with GSAP or threejs | 
+5 🔲  test smoothness of speed load time and scrolling for parallax effect|
 
 | 🔲 1 spin up new one with env file vars from mongo | doublecheck DNS redirect with host |   
 2 🔲 update rest of singletons pagination, buttons | 
-4 🔲 update | 
+4 🔲 add progress bar with article length | 
 5 🔲 browser test |
 
 | 1 🔲 check for multi-tenant user compatibility across projects 
