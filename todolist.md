@@ -2,8 +2,8 @@
 ### Professional Brand Portfolio website and to-do list
  
 ### Updated To-Do List v1 - Skeleton
- | PayloadCMS Admin Panel | Base Components | Customized Features | Testing |
 
+| PayloadCMS Admin Panel | Base Components | CCustomized Features | Testing |
 | :------------ | :------------------------- | :---------------------------- | :------------------ |
 
 | ✅ Create initial repo |
