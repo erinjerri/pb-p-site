@@ -6,7 +6,7 @@
 | PayloadCMS Admin Panel | Base Components | Customized Features | Testing |
 | :------------ | :------------------------- | :---------------------------- | :------------------ |
 | - ✅ Create initial repo |
-| - 🔲 spin up new one with env file vars from mongo | 🔲 Record audio and send to API for storage |
-| - [ ] 🔲 spin up new one with env file vars from mongo | - [ ] 🔲 initial landing with nav, blog main |- 🔲 create initial CMS admin panel and page with blog main page and blog post detail |
-| - ✅ update singletons | - 🔲 stuff | | |
-| - 🔲 stuff | | | |
+| - 🔲 spin up new one with env file vars from mongo | 🔲 doublecheck DNS redirect with host |
+| - [ ] 🔲 initial top nav and footer | - [ ] 🔲 initial landing blog main |- 🔲 create initial CMS admin panel and page with blog main page and blog post detail |
+| - ✅ update rest of singletons - pagination, buttons | - 🔲 update remaining singletons - logo | | |
+| - 🔲 update landing animation with GSAP or threejs | 🔲 update | feature search tag | test responsive |
