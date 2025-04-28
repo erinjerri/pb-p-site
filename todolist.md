@@ -158,7 +158,7 @@ Here’s the beautifully structured to-do list from earlier, formatted for easy 
 | Create hyperlinked directional UI arrows                                                 | 🔲 Pending |
 | Customize hero block and hero video block                                                | 🔲 Pending |
 | Implement feature search tags                                                            | 🔲 Pending |
-| Stripe API Embed |
+| Stripe API Embed                                                              | 🔲 Pending
 | Test responsiveness across devices                                                       | 🔲 Pending |
 
 ### 5. Testing
