@@ -3,10 +3,16 @@
  
 ### Updated To-Do List v1 - Skeleton
 
-| PayloadCMS Admin Panel | Base Components | Customized Features | Testing |
+| PayloadCMS Admin Panel | Base Components | Code Blocks Layout | Customized Features | Testing |
 | :------------ | :------------------------- | :---------------------------- | :------------------ |
-| ✅ Create initial repo |
+| ✅ Create initial repo | ✅ create initial CMS admin panel and page with blog main page and blog post detail | 🔲 feature - pop-up modal with download pdf | responsive test of first push
+| 🔲 fix lexical customization with syntax highlighter | 🔲 update remaining singletons - logo | 
 | 🔲 spin up new one with env file vars from mongo | 🔲 doublecheck DNS redirect with host |
-| 🔲 initial top nav and footer | 🔲 initial landing blog main | 🔲 feature - pop-up modal with download pdf|
-| ✅ update rest of singletons - pagination, buttons | 🔲 update remaining singletons - logo | | |
-| 🔲 update landing animation with GSAP or threejs |🔲 create initial CMS admin panel and page with blog main page and blog post detail | feature search tag | test responsive |
+
+| 1 | 2 update rest of singletons - pagination, buttons | 3 update landing animation with GSAP or threejs | 4 
+ 🔲 | 🔲  |
+
+|   |  | 
+
+| 
+| 🔲  |🔲  | feature search tag | test responsive |
